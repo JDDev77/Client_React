@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Estilos base para tu aplicación */
+.App {
+  text-align: left; /* Ajusta según necesites */
+  padding: 20px; /* Espaciado alrededor del contenido principal */
+}
+
+/* Agrega tus propios estilos aquí */
